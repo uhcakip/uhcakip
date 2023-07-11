@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Chih Yu 🐈‍⬛</h1>
 
-<h6>Mainly using Go, PHP</h6>
+<h6>Mainly use Go and PHP</h6>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
