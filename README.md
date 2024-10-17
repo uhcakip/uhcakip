@@ -14,6 +14,6 @@
       ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
     </em></strong>
   </p>
-  <p><img src="bongo-cat.png" alt="Bongo Cat" width="600" /></p>
+  <p><img src="bongo-cat.gif" alt="Bongo Cat" width="600" /></p>
   <p><sub>🐾 Powered by code, coffee, cats, and custom keyboards 🐾</sub></p>
 </div>
