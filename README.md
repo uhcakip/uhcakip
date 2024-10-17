@@ -10,7 +10,7 @@
   <p>
     <strong><em>
       ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓<br>
-       Check out <a href="https://uhcakip,github.io" target="_blank">chihyu.codes</a> for more about me! <br>
+       Check out <a href="https://uhcakip.github.io/" target="_blank">chihyu.codes</a> for more about me! <br>
       ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
     </em></strong>
   </p>
