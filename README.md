@@ -1,7 +1,6 @@
 <div align="center">
   <h3>Chih Yu :3</h3>
   <p><samp>Software Engineer | Cat Lover | Custom Keyboard Enthusiast</samp></p>
-  <h6><i>Currently learning iOS development with Swift and SwiftUI</i></h6>
 </div>
 
 <p align="center">🐈・⌨️・☕・🐈・⌨️・☕・🐈・⌨️・☕・🐈・⌨️・☕・🐈・⌨️・☕・🐈・⌨️・☕・🐈・⌨️・☕</p>
